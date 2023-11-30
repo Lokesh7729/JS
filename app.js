@@ -101,3 +101,22 @@
 // console.log(firstName.trim());
 
 
+// ---------------------------------------------------------------------
+
+// let firstName= "lokesh"
+// let lastName= "chauhan"
+// let fullName = `${firstName} ${lastName} is a fullstack web developer`
+// console.log(fullName);
+
+
+// Challenge
+// let favActorFirstName= "Salman";
+// let favActorLastName= "khan";
+// let fullName = favActorFirstName + " " + favActorLastName;
+// let upperCase= fullName.toUpperCase()
+// let message = `MY favourite Actor Is ${upperCase} & and he is Smart`;
+// message += `his best show is Silicon Valley`;
+// console.log(message);
+
+// -------------------------------------------------------------------------------
+
