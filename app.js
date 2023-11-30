@@ -120,3 +120,22 @@
 
 // -------------------------------------------------------------------------------
 
+// Type Conversion iN JAVASCRIPT /////////////////////
+
+let money = "30.34";
+
+// - Convert String to number
+// money = parseInt(money)
+// money = +money
+// money = Number(money)
+
+
+// - Convert Number to String
+// money = money.toString();
+// money = String(money);
+
+
+// - Convert String to Decimal
+// money= parseFloat(money);
+
+console.log(typeof money);
