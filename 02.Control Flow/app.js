@@ -72,4 +72,3 @@ arr.shift();
 console.log(arr);
 arr.unshift("banana");
 console.log(arr);
-
