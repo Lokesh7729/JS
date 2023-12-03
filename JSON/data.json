@@ -1,0 +1,12 @@
+{
+    "name":"lokesh chauhan",
+    "age": 20,
+    "email": "lokehs.gmail.com",
+    "isSubscribed": true,
+    "skills": ["HTML","CSS","JAVASCIRPT","REACT JS"],
+    "address":{
+        "city":"MP",
+        "member": true
+    }
+
+}
