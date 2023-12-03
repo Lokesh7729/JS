@@ -48,3 +48,15 @@ function showCallFunc(fn){
 showCallFunc(function(a){
     console.log(a);
 })
+
+
+// method is js
+
+const person ={
+    name:'LOKESH',
+    age:20,
+    greet: function(){
+        return `hello my name is ${person.name} & iam ${person.age} years old.`;
+    },
+}
+console.log(person.greet());
